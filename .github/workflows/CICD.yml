@@ -1,4 +1,4 @@
-name: Industrialisation continue sur le serveur Alwaysdata
+name: Industrialisation continue sur le serveur Alwaysdata tarik
 on: push
 jobs:
   Connexion:
